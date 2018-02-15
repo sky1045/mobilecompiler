@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mobile Compiler</string>
+    <string name="jButton">Java</string>
+    <string name="gcc">GCC</string>
+    <string name="create">Create</string>
+    <string name="delete">Delete</string>
+    <string name="modify">Modify</string>
+    <string name="compile">Compile</string>
+    <string name="source">Source</string>
+    <string name="file_name">fileName</string>
+    <string name="submit">입력</string>
+</resources>
